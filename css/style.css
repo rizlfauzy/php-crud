@@ -1,0 +1,13 @@
+.logo-login {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    padding: 0;
+}
+.logo-wrapping{
+    display: flex;
+    justify-content: center;
+}
+body {
+    background-color: cornflowerblue;
+}
